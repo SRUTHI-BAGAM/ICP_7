@@ -1,3 +1,4 @@
 Name : Sruthi Bagam
 ID : 700759201
-GitHub Link : 
+GitHub Link : https://github.com/SRUTHI-BAGAM/ICP_7
+Video Link : 
